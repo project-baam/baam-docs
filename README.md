@@ -1,1 +1,1 @@
-# baam-docs
+[문서](https://project-baam.github.io/baam-docs/)
